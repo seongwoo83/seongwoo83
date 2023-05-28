@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwoo83)](https://github.com/seongwoo83/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwoo83&layout=compact)](https://github.com/seongwoo83/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seongwoo83)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **seongwoo83/seongwoo83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
