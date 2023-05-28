@@ -8,7 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwoo83&layout=compact)](https://github.com/seongwoo83/github-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&rotate=180)
 <!--
 **seongwoo83/seongwoo83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
