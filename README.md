@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/-HTML-red
+<img src="https://img.shields.io/badge/-HTML-red">
 https://img.shields.io/badge/-Javascript-yellow
 https://img.shields.io/badge/-CSS-blue
 https://img.shields.io/badge/-Vue-green
