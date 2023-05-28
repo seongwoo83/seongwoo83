@@ -1,4 +1,9 @@
 ### Hi there 👋
+https://img.shields.io/badge/-HTML-red
+https://img.shields.io/badge/-Javascript-yellow
+https://img.shields.io/badge/-CSS-blue
+https://img.shields.io/badge/-Vue-green
+https://img.shields.io/badge/-React-blue
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwoo83)](https://github.com/seongwoo83/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwoo83&layout=compact)](https://github.com/seongwoo83/github-readme-stats)
 
