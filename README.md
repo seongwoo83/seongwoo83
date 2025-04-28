@@ -4,8 +4,8 @@
 [![wakatime](https://wakatime.com/badge/user/da0f41f9-45d0-4a43-a7a9-10709b617bb2.svg?style=flat)](https://wakatime.com/@da0f41f9-45d0-4a43-a7a9-10709b617bb2)<br />
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_white.svg" />
-</a>
+</a><br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwoo83&layout=compact&hide=html,css)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwoo83)](https://github.com/seongwoo83/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwoo83&layout=compact&hide=html,css)]<br />
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seongwoo83&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwoo83)](https://github.com/seongwoo83/github-readme-stats) -->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seongwoo83&layout=compact)](https://github.com/seongwoo83/github-readme-stats)
