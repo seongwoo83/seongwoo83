@@ -5,9 +5,12 @@
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_white.svg" />
 </a><br />
+---
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwoo83&layout=compact&hide=html,css) -->
+### My Top Language
 [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=seongwoo83&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&hide=html%2C+php%2C+css)](https://github.com/seongwoo83)
-
+---
+### My WakaTime Stats
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwoo83)](https://github.com/seongwoo83/github-readme-stats) -->
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seongwoo83&layout=compact&langs_count=6&hide=Other,php,css)](https://github.com/seongwoo83/github-readme-stats) -->
 [![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=seongwoo83&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=5)](https://wakatime.com/@seongwoo83)
