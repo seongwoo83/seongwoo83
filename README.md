@@ -8,7 +8,7 @@
 ---
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongwoo83&layout=compact&hide=html,css) -->
 ### My Top Language
-[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=seongwoo83&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&hide=html%2C+php%2C+css)](https://github.com/seongwoo83)
+[![Top Language](https://helio-github-stats.vercel.app/api/top-langs?username=seongwoo83&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Language&hide=html%2C+css%2C+sass%2C+scss)](https://nice-readme.vercel.app/top-langs)
 ---
 ### My WakaTime Stats
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwoo83)](https://github.com/seongwoo83/github-readme-stats) -->
